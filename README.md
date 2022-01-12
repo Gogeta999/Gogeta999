@@ -8,7 +8,7 @@
 # 📫 How to reach me 
 
 <p>
-<a href="https://twitter.com/666ash999" target="_blank"><img alt="Twitter" src="https://i.ibb.co/rtR9cNr/Gmail-Icon-2013-2020-svg.png" /> </a>  
+<a href="mailto:kevinlichen1412@gmail.com" target="_blank"><img alt="Twitter" src="https://i.ibb.co/rtR9cNr/Gmail-Icon-2013-2020-svg.png" /> </a>  
 <a href="https://ash999.xyz" target="_blank"><img alt="Blog" src="https://ash999.xyz/Ash999.svg" /></a> 
 <a href="https://twitter.com/666ash999" target="_blank"><img alt="Twitter" src="https://i.ibb.co/KyRSFnG/1515750.png" /> </a>
 </p>
