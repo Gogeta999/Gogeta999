@@ -1,7 +1,7 @@
 ![This is an image](https://i.ibb.co/NpbWxVn/FGO-Ishtar.jpg)
 
 - 👋 Hi, I’m @Gogeta999 
-- 👀 I’m interested in Hentai,Who isn't AH 🧐
+- 👀 I’m interested in Anime Girls, Who isn't AH 🧐
 - 🌱 I'm learning how to draw Anime Art
 
 
