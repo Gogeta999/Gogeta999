@@ -1,25 +1,47 @@
-![This is an image](https://i.ibb.co/NpbWxVn/FGO-Ishtar.jpg)
+<div align="center">
+  <img src="https://i.ibb.co/NpbWxVn/FGO-Ishtar.jpg" alt="Ishtar illustration" width="320" />
+  <h1>Hi there, I'm Kevin (@Gogeta999) 👋</h1>
+  <p>Anime enthusiast • Lifelong learner • Code tinkerer</p>
+</div>
 
-- 👋 Hi, I’m @Gogeta999 
-- 👀 I love Anime Girls, Who isn't AH 🧐
-- 🌱 Learning how to pass my confuse time
+---
 
+## 🌟 About Me
+- 👀 I love anime girls (who doesn't, ah? 🧐)
+- 🌱 Always looking for new ways to turn confused time into creative time
+- 💬 Ask me about anime, web tinkering, or the latest experiment on my desk
 
-# 📫 How to reach me 
-<p>
-<a href="mailto:kevinlichen1412@gmail.com" target="_blank"><img alt="Gmail" width="50" height="50" src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5af49c2e-5105-42f3-a4cb-e80cf85001c5/gmail-svgrepo-com.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220625%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220625T080028Z&X-Amz-Expires=86400&X-Amz-Signature=0a980653166ebebab568ce254142112748c89cb7a169a14e7523179e31095ef0&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22gmail-svgrepo-com.svg%22&x-id=GetObject"/> </a>  
-<a href="https://ash999.xyz" target="_blank"><img  alt="Blog" width="200" height="50" src="https://ash999.xyz/Ash999.svg" /></a> 
-<a href="https://twitter.com/666ash999" target="_blank"><img alt="Twitter" width="50" height="50" src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7b79ca8c-4661-4707-8daf-f8a1f907c044/twitter-svgrepo-com.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220625%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220625T080054Z&X-Amz-Expires=86400&X-Amz-Signature=e84716ab0cfc242ad89054f545c4ce34568cc67aee49402292f79260ba38d474&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22twitter-svgrepo-com.svg%22&x-id=GetObject" /> </a>
+## 📫 Reach Me
+<p align="center">
+  <a href="mailto:kevinlichen1412@gmail.com" target="_blank">
+    <img alt="Email Kevin" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://ash999.xyz" target="_blank">
+    <img alt="Personal blog" src="https://img.shields.io/badge/Blog-ash999.xyz-0d9488?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/666ash999" target="_blank">
+    <img alt="Follow on Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
 </p>
 
-&nbsp; [![Spotify](https://gogeta999-spotify.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/c6nj6pof99aq9ec1qrhm2bxrm)
+## 🎧 Currently Vibing To
+[![Spotify](https://gogeta999-spotify.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/c6nj6pof99aq9ec1qrhm2bxrm)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gogeta999&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gogeta999&&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gogeta999&theme=chartreuse-dark&show_icons=true" alt="Gogeta999's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gogeta999&theme=chartreuse-dark&layout=compact" alt="Top languages" height="165" />
+</div>
 
+## 🧰 Toolbox
+<p>
+  <img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Code-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tools-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Tools-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Cloud-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Wave Ah" />
+  <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Wave footer" />
 </p>
-
