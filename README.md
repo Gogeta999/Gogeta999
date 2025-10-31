@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://i.ibb.co/NpbWxVn/FGO-Ishtar.jpg" alt="Ishtar illustration" width="320" />
-  <h1>Hi there, I'm Kevin (@Gogeta999) 👋</h1>
-  <p>Anime enthusiast • Lifelong learner • Code tinkerer</p>
+  <img src="https://i.ibb.co/NpbWxVn/FGO-Ishtar.jpg" alt="Ishtar illustration" width="88%" />
+  <h1>Hi there, I'm Ash (@Gogeta999) 👋</h1>
+  <p>Anime enthusiast • Lifelong learner • Code tinkerer • Stupid Trader </p>
 </div>
 
 ---
@@ -13,19 +13,20 @@
 
 ## 📫 Reach Me
 <p align="center">
-  <a href="mailto:kevinlichen1412@gmail.com" target="_blank">
+  <a href="mailto:kevinlichen1412@gmail.com">
     <img alt="Email Kevin" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://ash999.xyz" target="_blank">
+  <a href="https://ash999.xyz">
     <img alt="Personal blog" src="https://img.shields.io/badge/Blog-ash999.xyz-0d9488?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://twitter.com/666ash999" target="_blank">
+  <a href="https://twitter.com/666ash999">
     <img alt="Follow on Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 
 ## 🎧 Currently Vibing To
-[![Spotify](https://gogeta999-spotify.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/c6nj6pof99aq9ec1qrhm2bxrm)
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31tnvutoznh5ixjzvkpqcgy42x3a&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=light&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31tnvutoznh5ixjzvkpqcgy42x3a&redirect=true)
 
 ## 📊 GitHub Stats
 <div align="center">
