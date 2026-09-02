@@ -26,13 +26,13 @@
 
 ## 🎧 Currently Vibing To
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31tnvutoznh5ixjzvkpqcgy42x3a&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=light&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31tnvutoznh5ixjzvkpqcgy42x3a&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31tnvutoznh5ixjzvkpqcgy42x3a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31tnvutoznh5ixjzvkpqcgy42x3a&redirect=true)
 
 ## 📊 GitHub Stats
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gogeta999&theme=chartreuse-dark&show_icons=true" alt="Gogeta999's GitHub stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gogeta999&theme=chartreuse-dark&layout=compact" alt="Top languages" height="165" />
-</div>
+</div> -->
 
 ## 🧰 Toolbox
 <p>
