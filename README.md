@@ -16,11 +16,11 @@
   <a href="mailto:kevinlichen1412@gmail.com">
     <img alt="Email Kevin" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://ash999.xyz">
-    <img alt="Personal blog" src="https://img.shields.io/badge/Blog-ash999.xyz-0d9488?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://ash999.fun">
+    <img alt="Personal blog" src="https://img.shields.io/badge/Blog-ash999.fun-79639A?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://twitter.com/666ash999">
-    <img alt="Follow on Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://x.com/666ash999">
+    <img alt="Follow on X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 
@@ -36,6 +36,7 @@
 
 ## 🧰 Toolbox
 <p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Code-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Tools-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
